@@ -1,5 +1,5 @@
 fn main() {
     println!("Hello, world!");
-    let i = 5;
+    let i = 7;
     println!("The value of i is: {}", i);
 }
